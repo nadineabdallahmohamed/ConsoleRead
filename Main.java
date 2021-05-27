@@ -1,4 +1,4 @@
-package my_input;
+package ConsoleRead;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
